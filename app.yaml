@@ -8,3 +8,4 @@ amazonProperties:
   localDir: upload-dir
 
 slack_webhook: "https://hooks.slack.com/services/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"
+github_token: "ghp_mQKNJGOlqeZnUk3555Zaqitjoeoeoeoeoeo"
