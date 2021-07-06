@@ -1,0 +1,8 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-northeast-10.amazonaws.com
+  accessKey: AKIAQF2OAKBLARIPMDDD
+  secretKey: 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
+  UserName: user_app
+  bucketName: genemes-pic
+  region: ap-northeast-10
+  localDir: upload-dir
