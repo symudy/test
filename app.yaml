@@ -6,3 +6,5 @@ amazonProperties:
   bucketName: genemes-pic
   region: ap-northeast-10
   localDir: upload-dir
+
+slack_webhook: "https://hooks.slack.com/services/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"
